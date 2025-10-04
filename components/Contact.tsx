@@ -23,8 +23,8 @@ const Contact = () => {
         {
             icon: <Github className="w-6 h-6" />,
             title: "GitHub",
-            value: "@Mohammadjavad436",
-            link: "https://github.com/Mohammadjavad436",
+            value: "@MohammadJavad-Abdi",
+            link: "https://github.com/MohammadJavad-Abdi",
         },
     ];
 

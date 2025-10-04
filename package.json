@@ -5,7 +5,7 @@
   "author": "Mohammad Javad Abdi <adbimohamd110@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Mohammadjavad436/Mohammad-Javad-Abdi.git"
+    "url": "https://github.com/MohammadJavad-Abdi/Mohammad-Javad-Abdi.git"
   },
   "scripts": {
     "dev": "next dev",

@@ -12,14 +12,14 @@ const Footer = () => {
                     </div>
 
                     <div className="flex space-x-6">
-                        <a
-                            href="https://github.com/Mohammadjavad436"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="text-gray-400 hover:text-white transition-colors duration-200"
-                        >
-                            <FaGithub size={24} />
-                        </a>
+            <a
+              href="https://github.com/MohammadJavad-Abdi"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-gray-400 hover:text-white transition-colors duration-200"
+            >
+              <FaGithub size={24} />
+            </a>
                         <a
                             href="https://www.linkedin.com/in/mohammad-javad-abdi-156079223/"
                             target="_blank"

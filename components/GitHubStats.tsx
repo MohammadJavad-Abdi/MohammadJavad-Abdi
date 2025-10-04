@@ -3,7 +3,7 @@
 import { motion } from "framer-motion";
 
 const GitHubStats = () => {
-    const username = "Mohammadjavad436";
+    const username = "MohammadJavad-Abdi";
 
     return (
         <section id="github-stats" className="py-20">

@@ -7,6 +7,7 @@ Passionate about clean code, performance optimization, and crafting smooth user 
 ---
 
 ### 🚀 Tech Stack
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -26,36 +27,43 @@ Passionate about clean code, performance optimization, and crafting smooth user 
 ---
 
 ### 🌟 Featured Projects
+
 Here are some highlights from my professional experience:
 
 - **Golrang System (Iran)**  
   Built interactive dashboards with **ReactFlow** & **ECharts** to visualize complex business processes and KPIs.  
   Collaborated closely with backend teams for data-driven insights.  
-  *Tech Stack:* Next.js, React, TypeScript, ReactFlow, ECharts, SCSS, Git
+  _Tech Stack:_ Next.js, React, TypeScript, ReactFlow, ECharts, SCSS, Git
 
 - **Finestel (Turkey)**  
   Developed user, admin, and super admin dashboards using **Next.js**, including reporting and customizable account management.  
   Optimized trading & analytical charts with real-time rendering.  
-  *Tech Stack:* Next.js, React, MUI, Tailwind CSS, Chart.js
+  _Tech Stack:_ Next.js, React, MUI, Tailwind CSS, Chart.js
 
 - **tjnoufal.com (Germany)**  
   Fully built and deployed frontend focusing on **performance** and **fast UX** using **Next.js** and **Shadcn UI**.  
-  *Tech Stack:* Next.js, TypeScript, Tailwind CSS, Shadcn
+  _Tech Stack:_ Next.js, TypeScript, Tailwind CSS, Shadcn
 
 ---
 
 ### 📊 GitHub Stats
-![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamadAdbi&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamadAdbi&layout=compact&theme=tokyonight)
+
+<div align="center">
+  
+![Mohammad-Javad-Abdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamadAdbi&show_icons=true&count_private=true&theme=tokyonight&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamadAdbi&layout=compact&theme=tokyonight&hide_title=true)
+
+</div>
 
 ---
 
 ### 🌐 Connect with Me
-Let’s build something amazing together 🚀  
+
+Let's build something amazing together 🚀
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-javad-abdi-156079223/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-242424?logo=vercel&logoColor=white)](https://lnkd.in/d56VEhrm)
 
 ---
 
-⭐️ *"Clean code, smooth UX, and high performance are my superpowers."*
+⭐️ _"Clean code, smooth UX, and high performance are my superpowers."_
