@@ -1,0 +1,11 @@
+{
+  "platform": "next",
+  "app": "mohammad-javad-portfolio",
+  "port": 3000,
+  "node": {
+    "version": "20"
+  },
+  "build": {
+    "cmd": "npm install && npm run build"
+  }
+}
