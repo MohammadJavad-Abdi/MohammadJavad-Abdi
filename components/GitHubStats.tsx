@@ -1,7 +1,6 @@
 "use client";
 
 import { motion } from "framer-motion";
-import Image from "next/image";
 
 const GitHubStats = () => {
     const username = "Mohammadjavad436";
@@ -32,12 +31,10 @@ const GitHubStats = () => {
                         viewport={{ once: true }}
                         className="bg-gradient-to-br from-gray-900 to-gray-800 p-4 rounded-xl border border-gray-700 flex items-center justify-center"
                     >
-                        <Image
+                        <img
                             src={`https://github-readme-stats.vercel.app/api?username=${username}&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a1a`}
                             alt="GitHub Stats"
-                            width={500}
-                            height={200}
-                            className="rounded-lg"
+                            className="rounded-lg w-full h-auto"
                         />
                     </motion.div>
 
@@ -48,12 +45,10 @@ const GitHubStats = () => {
                         viewport={{ once: true }}
                         className="bg-gradient-to-br from-gray-900 to-gray-800 p-4 rounded-xl border border-gray-700 flex items-center justify-center"
                     >
-                        <Image
+                        <img
                             src={`https://github-readme-stats.vercel.app/api/top-langs/?username=${username}&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a1a`}
                             alt="Top Languages"
-                            width={500}
-                            height={200}
-                            className="rounded-lg"
+                            className="rounded-lg w-full h-auto"
                         />
                     </motion.div>
                 </div>
