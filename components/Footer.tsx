@@ -33,7 +33,7 @@ const Footer = () => {
 
                 <div className="mt-4 text-center">
                     <p className="text-gray-500 text-sm italic">
-                        "Clean code, smooth UX, and high performance are my superpowers."
+                        &quot;Clean code, smooth UX, and high performance are my superpowers.&quot;
                     </p>
                 </div>
             </div>

@@ -39,7 +39,7 @@ const Contact = () => {
                         Get In <span className="gradient-text">Touch</span>
                     </h2>
                     <p className="text-gray-400 text-lg max-w-2xl mx-auto">
-                        Let's build something amazing together! Feel free to reach out for
+                        Let&apos;s build something amazing together! Feel free to reach out for
                         collaborations or just a friendly chat.
                     </p>
                 </motion.div>
