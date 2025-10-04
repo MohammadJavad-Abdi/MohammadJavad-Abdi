@@ -4,6 +4,9 @@ import { motion } from "framer-motion";
 import { Mail, MapPin, Linkedin, Github } from "lucide-react";
 
 const Contact = () => {
+
+
+
     const contactInfo = [
         {
             icon: <Mail className="w-6 h-6" />,
