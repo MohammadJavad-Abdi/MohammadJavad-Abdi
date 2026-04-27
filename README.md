@@ -51,10 +51,9 @@ Here are some highlights from my professional experience:
 
 <div align="center">
   
-![Mohammad-Javad-Abdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamadAdbi&show_icons=true&count_private=true&theme=tokyonight&hide_title=true)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamadAdbi&layout=compact&theme=tokyonight&hide_title=true)
+  ![MohammadJavad-Abdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadJavad-Abdi&show_icons=true&count_private=true&theme=tokyonight&hide_title=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadJavad-Abdi&layout=compact&theme=tokyonight&hide_title=true)
 </div>
 
 ---
