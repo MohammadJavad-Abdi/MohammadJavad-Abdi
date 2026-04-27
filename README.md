@@ -1,7 +1,7 @@
 ## 👋 Hey there, I'm Mohammad Javad Abdi
 
 💻 Frontend Developer with hands-on experience building responsive, user-friendly web apps.  
-I specialize in **React**, **React-Native** , **Next.js**, **TypeScript**, and modern frontend technologies.  
+I specialize in **React**, **React Native** , **Next.js**, **TypeScript**, and modern frontend technologies.  
 Passionate about clean code, performance optimization, and crafting smooth user experiences ✨
 
 ---
@@ -13,6 +13,7 @@ Passionate about clean code, performance optimization, and crafting smooth user 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/-Zustand-593D88?logo=react&logoColor=white)
@@ -51,6 +52,7 @@ Here are some highlights from my professional experience:
 <div align="center">
   
 ![Mohammad-Javad-Abdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamadAdbi&show_icons=true&count_private=true&theme=tokyonight&hide_title=true)
+  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamadAdbi&layout=compact&theme=tokyonight&hide_title=true)
 
 </div>
