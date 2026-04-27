@@ -1,7 +1,7 @@
 ## 👋 Hey there, I'm Mohammad Javad Abdi
 
 💻 Frontend Developer with hands-on experience building responsive, user-friendly web apps.  
-I specialize in **React**,**React-Native**, **Next.js**, **TypeScript**, and modern frontend technologies.  
+I specialize in **React**, **React-Native** , **Next.js**, **TypeScript**, and modern frontend technologies.  
 Passionate about clean code, performance optimization, and crafting smooth user experiences ✨
 
 ---
